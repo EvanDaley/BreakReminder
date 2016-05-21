@@ -1,0 +1,9 @@
+C:\Users\daley\Desktop\Master\Projects\C#\BreakReminder\BreakReminder\bin\Debug\BreakReminder.exe.config
+C:\Users\daley\Desktop\Master\Projects\C#\BreakReminder\BreakReminder\bin\Debug\BreakReminder.exe
+C:\Users\daley\Desktop\Master\Projects\C#\BreakReminder\BreakReminder\bin\Debug\BreakReminder.pdb
+C:\Users\daley\Desktop\Master\Projects\C#\BreakReminder\BreakReminder\obj\Debug\BreakReminder.csprojResolveAssemblyReference.cache
+C:\Users\daley\Desktop\Master\Projects\C#\BreakReminder\BreakReminder\obj\Debug\BreakReminder.Properties.Resources.resources
+C:\Users\daley\Desktop\Master\Projects\C#\BreakReminder\BreakReminder\obj\Debug\BreakReminder.csproj.GenerateResource.Cache
+C:\Users\daley\Desktop\Master\Projects\C#\BreakReminder\BreakReminder\obj\Debug\BreakReminder.exe
+C:\Users\daley\Desktop\Master\Projects\C#\BreakReminder\BreakReminder\obj\Debug\BreakReminder.pdb
+C:\Users\daley\Desktop\Master\Projects\C#\BreakReminder\BreakReminder\obj\Debug\BreakReminder.Form_Default.resources
